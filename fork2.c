@@ -16,6 +16,8 @@
 #include <sys/wait.h> 
 
 const char* processusPereOuFils;
+char* const processusPereOuFils;
+char* processusPereOuFils;
 
 /// @brief Code exécuté par le processus Père
 /// @param  aucun
